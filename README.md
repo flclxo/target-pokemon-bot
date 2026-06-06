@@ -1,6 +1,6 @@
 # target-pokemon-bot
 Fully request based auto checkout bot to purchases items on target.com. The bot handles target security and anti-bot measures. Over 20+ advanced different finger printing techinques are used to generate shape headers.
-Only posting this as majority of repos are private. Feel free to reach me at @ trustyourjs@protonmail.com 
+Only posting this as majority of repos are private. Feel free to reach me at @ trustyourjs@protonmail.com. Looking for more devs to work on other modules paying well.
 
 This is a private module and not for public. Just showcasing some work. 
 
